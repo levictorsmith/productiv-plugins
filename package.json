@@ -1,0 +1,23 @@
+{
+  "name": "productiv-plugins",
+  "version": "1.0.0",
+  "description": "Official actions, widgets, and feeds for the Productiv extension.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levictorsmith/productiv-plugins.git"
+  },
+  "author": "Victor LeVan Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levictorsmith/productiv-plugins/issues"
+  },
+  "homepage": "https://github.com/levictorsmith/productiv-plugins#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
