@@ -1,6 +1,6 @@
 {
   "name": "productiv-plugins",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official actions, widgets, and feeds for the Productiv extension.",
   "main": "dist/index.js",
   "scripts": {
